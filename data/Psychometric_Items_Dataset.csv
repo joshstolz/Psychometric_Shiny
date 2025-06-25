@@ -1,0 +1,51 @@
+ItemID,Difficulty,Discrimination,ContentDomain,TestDate
+Item_1,0.4,0.37,Treatment,2023-01-31
+Item_2,0.86,0.32,Treatment,2023-05-31
+Item_3,0.69,0.29,Clinical Skills,2023-01-31
+Item_4,0.58,0.27,Ethics,2023-08-31
+Item_5,0.22,0.15,Treatment,2023-01-31
+Item_6,0.22,0.23,Clinical Skills,2023-11-30
+Item_7,0.15,0.25,Ethics,2023-01-31
+Item_8,0.79,0.41,Diagnosis,2023-02-28
+Item_9,0.58,0.33,Clinical Skills,2023-02-28
+Item_10,0.67,0.12,Treatment,2023-06-30
+Item_11,0.12,0.33,Diagnosis,2023-07-31
+Item_12,0.88,0.26,Diagnosis,2023-05-31
+Item_13,0.77,0.23,Diagnosis,2023-01-31
+Item_14,0.27,0.36,Clinical Skills,2023-01-31
+Item_15,0.25,0.4,Treatment,2023-03-31
+Item_16,0.25,0.39,Diagnosis,2023-02-28
+Item_17,0.34,0.22,Ethics,2023-05-31
+Item_18,0.52,0.27,Diagnosis,2023-10-31
+Item_19,0.45,0.33,Diagnosis,2023-06-30
+Item_20,0.33,0.4,Clinical Skills,2023-07-31
+Item_21,0.59,0.25,Clinical Skills,2023-04-30
+Item_22,0.21,0.28,Treatment,2023-07-31
+Item_23,0.33,0.19,Ethics,2023-11-30
+Item_24,0.39,0.18,Clinical Skills,2023-08-31
+Item_25,0.46,0.38,Diagnosis,2023-11-30
+Item_26,0.73,0.44,Treatment,2023-01-31
+Item_27,0.26,0.29,Diagnosis,2023-06-30
+Item_28,0.51,0.4,Diagnosis,2023-08-31
+Item_29,0.57,0.34,Clinical Skills,2023-05-31
+Item_30,0.14,0.24,Treatment,2023-04-30
+Item_31,0.59,0.34,Ethics,2023-02-28
+Item_32,0.24,0.45,Ethics,2023-06-30
+Item_33,0.15,0.3,Clinical Skills,2023-06-30
+Item_34,0.86,0.46,Clinical Skills,2023-11-30
+Item_35,0.87,0.04,Treatment,2023-01-31
+Item_36,0.75,0.38,Ethics,2023-09-30
+Item_37,0.34,0.31,Ethics,2023-11-30
+Item_38,0.18,0.27,Ethics,2023-06-30
+Item_39,0.65,0.31,Diagnosis,2023-03-31
+Item_40,0.45,0.1,Ethics,2023-04-30
+Item_41,0.2,0.28,Diagnosis,2023-11-30
+Item_42,0.5,0.34,Treatment,2023-04-30
+Item_43,0.13,0.45,Diagnosis,2023-03-31
+Item_44,0.83,0.25,Treatment,2023-10-31
+Item_45,0.31,0.22,Ethics,2023-03-31
+Item_46,0.63,0.25,Ethics,2023-03-31
+Item_47,0.35,0.39,Treatment,2023-04-30
+Item_48,0.52,0.33,Clinical Skills,2023-07-31
+Item_49,0.54,0.25,Treatment,2023-04-30
+Item_50,0.25,0.35,Clinical Skills,2023-09-30
