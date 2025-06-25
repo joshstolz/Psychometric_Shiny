@@ -7,7 +7,7 @@ library(lubridate)
 library(readr)
 
 # Load data
-item_data <- read_csv("data/psychometric_items.csv")
+item_data <- read_csv("data/Psychometric_Items_Dataset.csv")
 
 # UI
 ui <- fluidPage(
